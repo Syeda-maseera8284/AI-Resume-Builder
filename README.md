@@ -1,4 +1,4 @@
- Free AI Resume Builder | Create ATS-Optimized Resumes in Minutes
+# AI Resume Builder | Create ATS-Optimized Resumes in Minutes
 
 <div align="center">
 
